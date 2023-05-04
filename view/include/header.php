@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Eforb Company Nigeria</title>
+        <link rel="icon" type="image/x-icon" href="../../storage/img/attributes/favicon_io/favicon.ico">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="We provide design and implementation, installation and operation, 
         maintenance and consultation services of on-premise or cloud storage infrastructures.">
