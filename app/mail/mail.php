@@ -11,8 +11,8 @@ $emailMethod                = 'smtp'; // REQUIRED value. Options: 'smtp' , 'phpm
 // Outgoing Server Settings - replace values on the right of the = sign with your own.
 // These 3 settings are only required if you choose 'smtp' for emailMethod above.
 $outgoingServerAddress      = 'mail.eforbnigeria.com'; // Consult your hosting provider.
-$outgoingServerPort         = '465';                  // Options: '587' , '25' - Consult your hosting provider.
-$outgoingServerSecurity     = 'ssl';                 // Options: 'ssl' , 'tls' , null - Consult your hosting provider.
+$outgoingServerPort         = '25';                  // Options: '587' , '25' - Consult your hosting provider.
+$outgoingServerSecurity     = 'tls';                 // Options: 'ssl' , 'tls' , null - Consult your hosting provider.
 
 // Sending Account Settings - replace these details with an email account held on the SMTP server entered above.
 // These 2 settings are only required if you choose 'smtp' for emailMethod above.
@@ -35,7 +35,7 @@ $recaptchaSecretKey         = '6LdZOt8lAAAAAN81-9VS315-s7n1NMeTpWa08ew_';
 $recaptchaErrorMessage      = 'There was a problem verifying the Google reCaptcha.  Please try again.';
 
 // Confirmation Message
-$sendConfirmationToUser     = false; // leave false to disable confirmation, or use path to an html email template.
+$sendConfirmationToUser     = true; // leave false to disable confirmation, or use path to an html email template.
 $confirmationSubject        = "Thanks for Contacting Eforb Company Nigeria"; // The subject of the confirmation email
 $confirmationFromName       = "Eforb Company Nigeria"; // Used in the "from" field of the email.
 $userEmailField             = "email";
