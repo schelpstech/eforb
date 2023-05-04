@@ -26,7 +26,11 @@
                     <i class="icon icon-Hand-Touch"></i>
                     <h4>Enterprise Storage Deployment & Refresh</h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_deployment')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
@@ -35,7 +39,11 @@
                     <i class="icon icon-Hand-Touch"></i>
                     <h4>Disaster Recovery & Backup Solutions</h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_recovery')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
@@ -44,7 +52,11 @@
                     <i class="icon icon-Hand-Touch"></i>
                     <h4>Enterprise Storage Modernisation & Upgrade </h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_modern')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
@@ -53,7 +65,11 @@
                     <i class="icon icon-Hand-Touch"></i>
                     <h4>Enterprise Data Migration & Capacity Expansion  </h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_migrate')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
@@ -62,7 +78,11 @@
                     <i class="icon icon-Cloud"></i>
                     <h4>Private| Public | Hybrid Cloud Onboarding & Deployment</h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_cloud')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
@@ -71,7 +91,11 @@
                     <i class="icon icon-Hand-Touch"></i>
                     <h4>Compute Ochestration & Workspace Virtualization</h4>
                     <hr>
-                    
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_compute')?>">
+                        <span class="btn__text">
+                            Learn More
+                        </span>
+                    </a>
                 </div>
                 <!--end feature-->
             </div>
