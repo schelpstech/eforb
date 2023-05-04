@@ -5,8 +5,7 @@
         <title>Eforb Company Nigeria</title>
         <link rel="icon" type="image/x-icon" href="../../storage/img/attributes/favicon_io/favicon.ico">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="We provide design and implementation, installation and operation, 
-        maintenance and consultation services of on-premise or cloud storage infrastructures.">
+        <meta name="description" content="We provide design and implementation, installation and operation, maintenance and consultation services of on-premise or cloud storage infrastructures.">
         <link href="../asset/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <link href="../asset/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
         <link href="../asset/css/socicon.css" rel="stylesheet" type="text/css" media="all" />
@@ -219,7 +218,7 @@
                                         Customer Portal
                                     </span>
                                 </a>
-                                <a class="btn btn--sm btn--primary type--uppercase" href="#">
+                                <a class="btn btn--sm btn--primary type--uppercase" href="https://www.eforbnigeria.com/mail/">
                                     <span class="btn__text">
                                        Staff Portal
                                     </span>
