@@ -24,7 +24,8 @@
                         We are open from 9am &mdash; 5pm week days.
                     </p>
                     <hr class="short">
-                    <form class="form-email row" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LewhCIUAAAAACSwFvBDhgtTbw6EnW6e9dip8o2u" data-recaptcha-theme="light">
+                    <form class="form-email row" data-success="Thanks for your enquiry, we'll be in touch shortly."
+                     data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LdI494lAAAAADFLR66MBVxo4XhRcs8vpwbLxrQp" data-recaptcha-theme="light">
                         <div class="col-md-6">
                             <label>Your Name:</label>
                             <input type="text" name="name" class="validate-required" />
