@@ -25,7 +25,7 @@
                     </p>
                     <hr class="short">
                     <form class="form-email row" data-success="Thanks for your enquiry, we'll be in touch shortly."
-                     data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LdI494lAAAAADFLR66MBVxo4XhRcs8vpwbLxrQp" data-recaptcha-theme="light">
+                     data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LdZOt8lAAAAANzQuhz5p-KGVn76YpHPU6k4qTCH" data-recaptcha-theme="light">
                         <div class="col-md-6">
                             <label>Your Name:</label>
                             <input type="text" name="name" class="validate-required" />

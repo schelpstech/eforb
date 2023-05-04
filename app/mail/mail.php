@@ -31,7 +31,7 @@ $timeZone                   = 'Africa/Lagos';         // OPTIONAL, but some serv
                                                              // See a list of all supported timezones at: http://php.net/manual/en/timezones.php
 
 // Google reCAPTCHA
-$recaptchaSecretKey         = '6LdI494lAAAAADR21yUQbISQz69TBq1tZhmGK-Z7';
+$recaptchaSecretKey         = '6LdZOt8lAAAAAN81-9VS315-s7n1NMeTpWa08ew_';
 $recaptchaErrorMessage      = 'There was a problem verifying the Google reCaptcha.  Please try again.';
 
 // Confirmation Message
