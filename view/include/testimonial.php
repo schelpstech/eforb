@@ -30,19 +30,19 @@
                         <img alt="Image" src="../../storage/img/clients/firs.png" height="100px" width="100px"/>
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/heritage.png" />
+                        <img alt="Image" src="../../storage/img/clients/heritage.png" height="100px" width="100px" />
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/heritagee.png" />
+                        <img alt="Image" src="../../storage/img/clients/heritagee.png" height="100px" width="100px" />
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/interswitch.png" />
+                        <img alt="Image" src="../../storage/img/clients/interswitch.png" height="100px" width="100px" />
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/leadway.png" />
+                        <img alt="Image" src="../../storage/img/clients/leadway.png" height="100px" width="100px" />
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/sti.png" />
+                        <img alt="Image" src="../../storage/img/clients/sti.png" height="100px" width="100px" />
                     </li>
                 </ul>
             </div>
