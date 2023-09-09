@@ -18,16 +18,16 @@
             <div class="col-md-12">
                 <ul class="list-inline list-inline--images">
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/cbn.png" height="auto" width="auto"/>
+                        <img alt="Image" src="../../storage/img/clients/cbn.png" height="100px" width="100px"/>
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/dpr.png" height="100px" width="100px" />
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/fidelity.png" height="50" width="50"/>
+                        <img alt="Image" src="../../storage/img/clients/fidelity.png" height="100px" width="100px"/>
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/firs.png" height="50" width="50"/>
+                        <img alt="Image" src="../../storage/img/clients/firs.png" height="100px" width="100px"/>
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/heritage.png" />
