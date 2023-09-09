@@ -18,7 +18,7 @@
             <div class="col-md-12">
                 <ul class="list-inline list-inline--images">
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/cbn.png" height="150" width="150"/>
+                        <img alt="Image" src="../../storage/img/clients/cbn.png" height="100" width="100"/>
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/dpr.png" height="150" width="150" />
