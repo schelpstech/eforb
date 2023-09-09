@@ -21,7 +21,7 @@
                         <img alt="Image" src="../../storage/img/clients/cbn.png" height="auto" width="auto"/>
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/dpr.png" height="150" width="150" />
+                        <img alt="Image" src="../../storage/img/clients/dpr.png" height="150px" width="150px" />
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/fidelity.png" height="50" width="50"/>
