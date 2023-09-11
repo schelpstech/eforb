@@ -21,7 +21,7 @@
                         <img alt="Image" src="../../storage/img/clients/cbn.png" height="100px" width="100px"/>
                         
                     </li>
-                    <li>
+                    <li class="process__item">
                         <img alt="Image" src="../../storage/img/clients/interswitch.png" class="border--round" /> 
                     </li>
                     <li>
