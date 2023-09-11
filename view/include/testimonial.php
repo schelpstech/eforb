@@ -21,8 +21,8 @@
                         <img alt="Image" src="../../storage/img/clients/cbn.png" height="100px" width="100px"/>
                         
                     </li>
-                    <li class="process__item">
-                        <img alt="Image" src="../../storage/img/clients/interswitch.png" class="border--round" /> 
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/interswitch.png" class="border--round" style="height=100px;" /> 
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/dpr.png" height="100px" width="100px" />
