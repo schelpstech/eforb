@@ -204,7 +204,7 @@
                                         <!--end dropdown container-->
                                     </li>
                                     <li class="">
-                                        <a href="./index.php?pageid=<?php echo base64_encode('page_blog')?>">Blog</a>
+                                        <a href="https://insight.eforbnigeria.com/">Insight@EFORB</a>
                                     </li>
                                     <li class="">
                                         <a href="./index.php?pageid=<?php echo base64_encode('page_contact')?>">Contact us</a>
