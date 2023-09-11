@@ -22,13 +22,13 @@
                         
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/dpr.png" style="height:100px;width:100px;" />
+                        <img alt="Image" src="../../storage/img/clients/dpr.png" style="height:100%;width:100%;" />
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/fidelity.png" height="100px" width="100px"/>
                     </li>
                     <li>
-                        <img alt="Image" src="../../storage/img/clients/firs.png" height="100px" width="100px"/>
+                        <img alt="Image" src="../../storage/img/clients/firs.png" style="height:100%;width:100%;" />
                     </li>
                     <li>
                         <img alt="Image" src="../../storage/img/clients/heritage.png" height="100px" width="100px" />
