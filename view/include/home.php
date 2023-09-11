@@ -22,65 +22,58 @@
         </div>
     </div>
 </section>
-<section>
+<section class="text-center">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <div class="feature feature-5 boxed boxed--lg boxed--border">
-                    <i class="icon icon-Pantone icon--lg"></i>
-                    <div class="feature__body">
-                        <h5>Shared IT Responsibilities with trained certified Experts</h5>
-                        <p>
-                            You can focus on making your business a success rather than worrying about the core troubleshooting of issues and while we focus on the de-escalation.
-                        </p>
-                        <a href="#">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="feature feature-5 boxed boxed--lg boxed--border">
-                    <i class="icon icon-Fingerprint icon--lg"></i>
-                    <div class="feature__body">
-                        <h5>Privay & Data Confidentiality</h5>
-                        <p>
-                            Data privacy is enshrined in our corporate culture and privacy principles, grounded in our Code of Conduct and supported by contractual commitments and Binding Corporate Rules.
-                        </p>
-                        <a href="#">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
-                    <i class="icon icon-Duplicate-Window icon--lg"></i>
-                    <div class="feature__body">
-                        <h5>Proactive Monitoring to Prevent Downtimes</h5>
-                        <p>
-                            Regular maintenance check drastically reduces the deterioration of your IT infrastructures which slowly robs the business of time, efficiency, and productivity.
-                            We ensure our clients' expectations of service levels for data connectivity, availability and speed are met.
-                        </p>
-                        <a href="#">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="feature feature-5 boxed boxed--lg boxed--border">
-                    <i class="icon icon-Life-Safer icon--lg"></i>
-                    <div class="feature__body">
-                        <h5>24|7|365 Support</h5>
-                        <p>
-                            The world is open 24|7|365 and we all demand a continual online presence, with organizations and governments having to be accessible to their data around the clock.
-                            Our support services enable our clients to operate 24|7|365 ensuring business continuity and the capability to deliver the very best in customer service.
-                        </p>
-                        <a href="#">Learn More</a>
-                    </div>
-                </div>
+            <div class="col-md-12">
+                <h2>A trusted partner to the best</h2>
+                <p class="lead">
+                    Working with the industries best and brightest minds to deliver outstanding results
+                </p>
             </div>
         </div>
         <!--end of row-->
     </div>
     <!--end of container-->
 </section>
-
+<section class="text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline">
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/cbn.png"  height="100px" width="100px"/>
+                        
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/dpr.png"  height="100px" width="100px" />
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/fidelity.png" height="100px" width="100px"/>
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/firs.png"  height="100px" width="100px" />
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/heritage.png" height="100px" width="100px" />
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/heritagee.png" height="100px" width="100px" />
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/interswitch.png" height="100px" width="100px" />
+                    </li>
+                    <li>
+                        <img alt="Image" src="../../storage/img/clients/leadway.png" height="100px" width="100px" />
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</section>
 <section class=" ">
     <div class="container">
         <hr>    
@@ -170,3 +163,62 @@
     </div>
     <!--end of container-->
 </section>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="feature feature-5 boxed boxed--lg boxed--border">
+                    <i class="icon icon-Pantone icon--lg"></i>
+                    <div class="feature__body">
+                        <h5>Shared IT Responsibilities with trained certified Experts</h5>
+                        <p>
+                            You can focus on making your business a success rather than worrying about the core troubleshooting of issues and while we focus on the de-escalation.
+                        </p>
+                        <a href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="feature feature-5 boxed boxed--lg boxed--border">
+                    <i class="icon icon-Fingerprint icon--lg"></i>
+                    <div class="feature__body">
+                        <h5>Privay & Data Confidentiality</h5>
+                        <p>
+                            Data privacy is enshrined in our corporate culture and privacy principles, grounded in our Code of Conduct and supported by contractual commitments and Binding Corporate Rules.
+                        </p>
+                        <a href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
+                    <i class="icon icon-Duplicate-Window icon--lg"></i>
+                    <div class="feature__body">
+                        <h5>Proactive Monitoring to Prevent Downtimes</h5>
+                        <p>
+                            Regular maintenance check drastically reduces the deterioration of your IT infrastructures which slowly robs the business of time, efficiency, and productivity.
+                            We ensure our clients' expectations of service levels for data connectivity, availability and speed are met.
+                        </p>
+                        <a href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="feature feature-5 boxed boxed--lg boxed--border">
+                    <i class="icon icon-Life-Safer icon--lg"></i>
+                    <div class="feature__body">
+                        <h5>24|7|365 Support</h5>
+                        <p>
+                            The world is open 24|7|365 and we all demand a continual online presence, with organizations and governments having to be accessible to their data around the clock.
+                            Our support services enable our clients to operate 24|7|365 ensuring business continuity and the capability to deliver the very best in customer service.
+                        </p>
+                        <a href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</section>
+
