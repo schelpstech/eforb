@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <ul class="list-inline list-inline--images">
+                <ul class="list-inline">
                     <li>
                         <img alt="Image" src="../../storage/img/clients/cbn.png" style="height:100px;width:100px;"/>
                         
