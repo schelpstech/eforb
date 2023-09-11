@@ -42,9 +42,7 @@
                     <li>
                         <img alt="Image" src="../../storage/img/clients/leadway.png" height="100px" width="100px" />
                     </li>
-                    <li>
-                        <img alt="Image" src="../../storage/img/clients/sti.png" height="100px" width="100px" />
-                    </li>
+                    
                 </ul>
             </div>
         </div>
