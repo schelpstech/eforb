@@ -12,11 +12,14 @@
                                 </div>
                                 <div class="col-lg-7 col-md-8 col-12">
                                     <span class="p">&ldquo;
-                                    Our company was struggling with outdated storage infrastructure, which impacted our ability to efficiently manage and access our data. We reached out to this company for their Enterprise Storage Modernisation & Upgrade service, and they did not disappoint. Their team of experts worked closely with us to design a customized solution that not only met our current needs but also aligned with our future goals. The upgrade has significantly improved our storage capacity, and we have noticed a considerable increase in system performance. 
+                                    Our company was struggling with outdated storage infrastructure, which impacted our ability to efficiently manage and access our data. 
+                                    We reached out to this company for their Enterprise Storage Modernisation & Upgrade service, and they did not disappoint. 
+                                    Their team of experts worked closely with us to design a customized solution that not only met our current needs but also aligned with our future goals. 
+                                    The upgrade has significantly improved our storage capacity, and we have noticed a considerable increase in system performance. 
                                     We highly recommend this company for their exceptional services.
                                         &rdquo;
                                     </span>
-                                    <span>Infrastructure Manager &mdash; Yoke</span>
+                                    <span>Infrastructure Manager</span>
                                 </div>
                             </div>
                         </li>
@@ -43,10 +46,12 @@
                                 </div>
                                 <div class="col-lg-7 col-md-8 col-12">
                                     <span class="p">&ldquo;
-                                    Our company was struggling with managing our IT resources efficiently, and we decided to try Compute Orchestration & Workspace Virtualization services. We were impressed with the results; their team designed and deployed a customized virtualization strategy that optimized our computing resources and enabled our workforce to be more productive. Their workspace virtualization services were particularly helpful, allowing our employees to work from anywhere, on any device, while maintaining data security. We highly recommend this company for their expert services and excellent customer support.    
+                                    Our company was struggling with managing our IT resources efficiently, and we decided to try Compute Orchestration & Workspace Virtualization services.
+                                     We were impressed with the results; their team designed and deployed a customized virtualization strategy that optimized our computing resources and enabled our workforce to be more productive. 
+                                     Their workspace virtualization services were particularly helpful, allowing our employees to work from anywhere, on any device, while maintaining data security. We highly recommend this company for their expert services and excellent customer support.    
                                     .&rdquo;
                                     </span>
-                                    <span>CTO &mdash; Yoke</span>
+                                    <span>System Administrator</span>
                                 </div>
                             </div>
                         </li>
