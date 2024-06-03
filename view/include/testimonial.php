@@ -16,7 +16,6 @@
                                     We highly recommend this company for their exceptional services.
                                         &rdquo;
                                     </span>
-                                    <h5>Maguerite Holland</h5>
                                     <span>Infrastructure Manager &mdash; Yoke</span>
                                 </div>
                             </div>
@@ -33,7 +32,6 @@
                                     The implementation was seamless, and their ongoing support ensures that our data is protected at all times. Thanks to their services, we now have peace of mind, knowing that our critical data is secure and recoverable in the event of a disaster."  
                                     &rdquo;
                                     </span>
-                                    <h5>Lucas Nguyen</h5>
                                     <span>CTO</span>
                                 </div>
                             </div>
@@ -48,7 +46,6 @@
                                     Our company was struggling with managing our IT resources efficiently, and we decided to try Compute Orchestration & Workspace Virtualization services. We were impressed with the results; their team designed and deployed a customized virtualization strategy that optimized our computing resources and enabled our workforce to be more productive. Their workspace virtualization services were particularly helpful, allowing our employees to work from anywhere, on any device, while maintaining data security. We highly recommend this company for their expert services and excellent customer support.    
                                     .&rdquo;
                                     </span>
-                                    <h5>Rob Vasquez</h5>
                                     <span>CTO &mdash; Yoke</span>
                                 </div>
                             </div>
