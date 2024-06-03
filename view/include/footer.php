@@ -6,7 +6,7 @@
                     <div class="col-md-6 col-lg-6">
                         <h6 class="type--uppercase">Eforb Company Nigeria Limited</h6>
                         <p style="justify-content: right;">
-                            Eforb Company Nigeria is an IT Infrasctructure Engineering Company.
+                            Eforb Company Nigeria is an IT Infrastructure Engineering Company.
                             We provide design and implementation, installation and operation, maintenance and
                             consultation services of IT Infrastructures.
                         </p>

@@ -10,7 +10,7 @@
                 <p class="lead">
                     We are a Professional IT Service Delivery company with expertise across all enterprise technologies.
                 </p>
-                <a class="btn btn--primary type--uppercase inner-link" href="#demos">
+                <a class="btn btn--primary type--uppercase inner-link" href="./index.php?pageid=<?php echo base64_encode('page_casestudy')?>">
                     <span class="btn__text">
                         Explore Use Cases
                     </span>
@@ -83,7 +83,7 @@
             <div class="col-md-4">
                 <div class="feature feature-4 boxed boxed--lg boxed--border">
                     <i class="icon icon-Hand-Touch"></i>
-                    <h4>Enterprise Storage Deployment & Refresh</h4>
+                    <h4>Enterprise Storage Deployment and Modernisation</h4>
                     <hr>
                     <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_deployment')?>">
                         <span class="btn__text">
@@ -109,9 +109,9 @@
             <div class="col-md-4">
                 <div class="feature feature-4 boxed boxed--lg boxed--border">
                     <i class="icon icon-Hand-Touch"></i>
-                    <h4>Enterprise Storage Modernisation & Upgrade </h4>
+                    <h4>Enterprise Workforce ICT Training & Development </h4>
                     <hr>
-                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_modern')?>">
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_training')?>">
                         <span class="btn__text">
                             Learn More
                         </span>
