@@ -45,7 +45,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <span class="type--fine-print">&copy;
-                                <span class="update-year"></span> Eforb Company Nigeria Ltd. &mdash; All Rights
+                                <span class="update-year"></span> Eforb Company Ltd. &mdash; All Rights
                                 Reserved</span>
                         </div>
                         <div class="col-md-6 text-right text-center-xs">
