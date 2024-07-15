@@ -23,6 +23,9 @@
                             a customized cloud strategy that fits your unique business requirements and budget.
                             We work with a range of cloud providers and will help you choose the best option for your
                             business needs.
+
+                            In addition, we offer <strong>XaaS Built with ONTAP</strong> and <strong>XaaS Built with StorageGRID </strong>to further enhance your cloud experience. 
+                            These solutions provide robust data management and storage capabilities, ensuring optimal performance, scalability, and security for your business operations.
                         </p>
                         <blockquote>
                             &ldquo;Our team will work closely with you to determine the appropriate level of cloud
