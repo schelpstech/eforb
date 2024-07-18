@@ -43,6 +43,9 @@
        case 'page_contact':
            include '../include/contact.php';
            break;
+        case 'page_contact':
+           include '../include/contact.php';
+           break;
        default:
            include '../include/home.php';
    }
