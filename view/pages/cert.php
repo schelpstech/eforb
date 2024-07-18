@@ -1,7 +1,7 @@
 <?php
 // List of valid certificate numbers with the owner's name and issued date
 $validCertificates = [
-    "CERT123456" => ["name" => "Ezekiel Salako", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-01-01"],
+    "CERT123456" => ["name" => "Ezekiel Salako", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "18-07-2024"],
     "CERT654321" => ["name" => "Jane Smith", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-02-01"],
     "CERT112233" => ["name" => "Alice Johnson","course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-03-01"],
     // Add more certificate numbers, owners, and issued dates as needed
