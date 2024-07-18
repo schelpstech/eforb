@@ -1,9 +1,9 @@
 <?php
 // List of valid certificate numbers with the owner's name and issued date
 $validCertificates = [
-    "CERT123456" => ["name" => "John Doe", "issued_date" => "2022-01-01"],
-    "CERT654321" => ["name" => "Jane Smith", "issued_date" => "2022-02-01"],
-    "CERT112233" => ["name" => "Alice Johnson", "issued_date" => "2022-03-01"],
+    "CERT123456" => ["name" => "John Doe", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-01-01"],
+    "CERT654321" => ["name" => "Jane Smith", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-02-01"],
+    "CERT112233" => ["name" => "Alice Johnson","course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-03-01"],
     // Add more certificate numbers, owners, and issued dates as needed
 ];
 
@@ -60,7 +60,7 @@ include '../include/header.php';
                         <?php
                         if ($certificateNumber !== null) {
                             if ($certificateDetails) {
-                                echo "<p> <strong>$certificateNumber</strong></p>";
+                                echo "<p> <strong>$certificateNumber</strong> is VALID</p>";
                             } else {
                                 echo "<p>Certificate number <strong>$certificateNumber</strong> is invalid.</p>";
                             }
@@ -110,12 +110,12 @@ include '../include/header.php';
             </div>
             <div class="col-md-3">
                 <div class="process__item">
-                    <h4>• Certificate Status :
+                    <h4>• Certificate Course :
                         <br><br>
                         <?php
                         if ($certificateNumber !== null) {
                             if ($certificateDetails) {
-                                echo "<p> <strong>VALID</strong></p>";
+                                echo "<p> <strong>{$certificateDetails['course']}</strong></p>";
                             } else {
                                 echo "<p>Certificate number <strong>$certificateNumber</strong> is invalid.</p>";
                             }
