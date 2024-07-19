@@ -1,9 +1,29 @@
 <?php
 // List of valid certificate numbers with the owner's name and issued date
 $validCertificates = [
-    "CERT123456" => ["name" => "Ezekiel Salako", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "18-07-2024"],
-    "CERT654321" => ["name" => "Jane Smith", "course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-02-01"],
-    "CERT112233" => ["name" => "Alice Johnson","course" => "SolarWind Deployment and Administration Training", "issued_date" => "2022-03-01"],
+    "CERT123456" => ["name" => "Ezekiel Salako", "course" => "SolarWinds Deployment and Administration Training", "issued_date" => "18-07-2024"],
+    "CERT654321" => ["name" => "Jane Smith", "course" => "SolarWinds Deployment and Administration Training", "issued_date" => "2022-02-01"],
+    "CERT112233" => ["name" => "Alice Johnson","course" => "SolarWinds Deployment and Administration Training", "issued_date" => "2022-03-01"],
+    'EF-SWDAT-2407001' => ['name' => 'SALAKO EZEKIEL', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407002' => ['name' => 'ABDULLATEEF IMAM', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407003' => ['name' => 'MUHAMMAD MAMMAN', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407004' => ['name' => 'HENRY OKONKWO KC', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407005' => ['name' => 'NJIDDA UMAR BELLO', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407006' => ['name' => 'MAHMUD JIBRIL', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407007' => ['name' => 'OLAWALE OLANIYI AKINOLA', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407008' => ['name' => 'HAMZA SADA DIKKO', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407009' => ['name' => 'HENA DAVID NKIRDA', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407010' => ['name' => 'OZOR ALPHEUS EDOZIE', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407011' => ['name' => 'OLUMIDE N. PEREGRINO', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407012' => ['name' => 'CHIOMA .S.  OKOYE', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407013' => ['name' => 'BAKARE, BUKOLA KABIRAT', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407014' => ['name' => 'ABDULLAHI MAHMUD', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407015' => ['name' => 'WOBOT EVONG', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407016' => ['name' => 'FILIBUS EMO GARKUWA', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407017' => ['name' => 'JANKADA LAZIYA AUDU', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407018' => ['name' => 'SHETTIMA GALADIMA', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024'],
+    'EF-SWDAT-2407019' => ['name' => 'ADEOTAN FESTUS OLUFEMI', 'course' => 'SolarWinds Deployment and Administration Training', 'issued_date' => '18-07-2024']
+
     // Add more certificate numbers, owners, and issued dates as needed
 ];
 
