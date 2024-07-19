@@ -42,7 +42,7 @@ function verifyCertificate($certificateNumber)
 $certificateNumberEncoded = isset($_GET['certnum']) ? $_GET['certnum'] : null;
 $certificateDetails = false;
 
-if ($certificateNumber !== null) {
+if ($certificateNumberEncoded !== null) {
     $certificateNumber = base64_decode($certificateNumberEncoded);
     $certificateDetails = verifyCertificate($certificateNumber);
 }
