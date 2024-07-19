@@ -39,10 +39,11 @@ function verifyCertificate($certificateNumber)
 }
 
 // Get the certificate number from the URL (GET parameter)
-$certificateNumber = isset($_GET['certnum']) ? $_GET['certnum'] : null;
+$certificateNumberEncoded = isset($_GET['certnum']) ? $_GET['certnum'] : null;
 $certificateDetails = false;
 
 if ($certificateNumber !== null) {
+    $certificateNumber = base64_decode('$certificateNumberEncoded');
     $certificateDetails = verifyCertificate($certificateNumber);
 }
 ?>
