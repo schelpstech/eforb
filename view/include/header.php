@@ -204,7 +204,7 @@
                                         <!--end dropdown container-->
                                     </li>
                                     <li class="">
-                                        <a href="https://insight.eforbnigeria.com/">Insight@EFORB</a>
+                                        <a href="https://insight.eforbcompany.com/">Insight@EFORB</a>
                                     </li>
                                     <li class="">
                                         <a href="./index.php?pageid=<?php echo base64_encode('page_contact')?>">Contact us</a>
@@ -218,7 +218,7 @@
                                         Customer Portal
                                     </span>
                                 </a>
-                                <a class="btn btn--sm btn--primary type--uppercase" href="https://www.eforbnigeria.com/mail/">
+                                <a class="btn btn--sm btn--primary type--uppercase" href="https://www.eforbcompany.com/mail/">
                                     <span class="btn__text">
                                        Staff Portal
                                     </span>
