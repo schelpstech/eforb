@@ -4,11 +4,11 @@
             <div class="col-md-6 col-lg-5">
                 <h6 class="type--uppercase">Welcome to our world of </h6>
                 <div class="typed-headline">
-                    <span class="h1 inline-block">Enterprise Technology </span>
-                    <span class="h4 inline-block typed-text typed-text--cursor color--primary" data-typed-strings="Enterprise Storage Server Solutions, Enterprise Backup and Data Recovery Solutions, Enterprise Compute and Server Technologies, Enterprise Public| Private| Hybrid Cloud Solutions ">the design conscious.</span>
+                    <span class="h1 inline-block">Infrastructure Technology </span>
+                    <span class="h4 inline-block typed-text typed-text--cursor color--primary" data-typed-strings="Enterprise Storage Server Solutions, Procurement and General Contracts, Real Estate Infrastructure Development, Enterprise Backup and Data Recovery Solutions, Enterprise Compute and Server Technologies, Enterprise Public| Private| Hybrid Cloud Solutions, Building Construction and Rehabilitation">the design conscious.</span>
                 </div>
                 <p class="lead">
-                    We are a Professional IT Service Delivery company with expertise across all enterprise technologies.
+                    We are a Professional IT & Infrastructure Service Delivery company with expertise across all enterprise technologies.
                 </p>
                 <a class="btn btn--primary type--uppercase inner-link" href="./index.php?pageid=<?php echo base64_encode('page_casestudy')?>">
                     <span class="btn__text">
@@ -96,9 +96,9 @@
             <div class="col-md-4">
                 <div class="feature feature-4 boxed boxed--lg boxed--border">
                     <i class="icon icon-Hand-Touch"></i>
-                    <h4>Disaster Recovery & Backup Solutions</h4>
+                    <h4>Real Estate Infrastructure Development</h4>
                     <hr>
-                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('service_recovery')?>">
+                    <a class="btn btn--primary" href="./index.php?pageid=<?php echo base64_encode('realestate')?>">
                         <span class="btn__text">
                             Learn More
                         </span>

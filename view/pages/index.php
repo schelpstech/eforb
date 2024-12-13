@@ -43,8 +43,8 @@
        case 'page_contact':
            include '../include/contact.php';
            break;
-        case 'page_contact':
-           include '../include/contact.php';
+        case 'realestate':
+           include '../include/realestate.php';
            break;
        default:
            include '../include/home.php';
